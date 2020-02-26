@@ -1,0 +1,54 @@
+h1 {
+    color: aqua;
+}
+
+html {
+
+    box-sizing: border-box;
+    margin: 0;
+}
+
+    {
+    border-style: dotted;
+    border-width: medium;
+    border-color: darkgoldenrod;
+
+}
+
+body {
+    background-color: antiquewhite;
+    background-image: url("../images/mountain.jpg");
+    background-size: cover;
+    background-position: center;
+
+
+   
+    padding-bottom: 160px;
+    padding-left: 160px;
+    padding-right: 160px;
+    padding-top: 160px;
+    
+}
+
+
+
+h2 {
+
+    color: deeppink;
+}
+
+p,
+a {
+    color: deeppink;
+
+}
+
+
+h1,
+h2 {
+    font-family: cursive;
+}
+
+.homepagelist {
+    color: #8f9b93;
+}
